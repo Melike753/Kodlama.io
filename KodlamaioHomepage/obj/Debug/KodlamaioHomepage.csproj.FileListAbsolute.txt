@@ -1,0 +1,7 @@
+C:\Users\Melike\source\repos\Homework\KodlamaioHomepage\obj\Debug\KodlamaioHomepage.csproj.AssemblyReference.cache
+C:\Users\Melike\source\repos\Homework\KodlamaioHomepage\obj\Debug\KodlamaioHomepage.csproj.CoreCompileInputs.cache
+C:\Users\Melike\source\repos\Homework\KodlamaioHomepage\bin\Debug\KodlamaioHomepage.exe.config
+C:\Users\Melike\source\repos\Homework\KodlamaioHomepage\bin\Debug\KodlamaioHomepage.exe
+C:\Users\Melike\source\repos\Homework\KodlamaioHomepage\bin\Debug\KodlamaioHomepage.pdb
+C:\Users\Melike\source\repos\Homework\KodlamaioHomepage\obj\Debug\KodlamaioHomepage.exe
+C:\Users\Melike\source\repos\Homework\KodlamaioHomepage\obj\Debug\KodlamaioHomepage.pdb
